@@ -1,0 +1,14 @@
+div.contenedor {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    height: 100%;
+    align-items: center;
+    align-content: center;
+    padding: 4%;
+}
+
+.imagenColor {
+    width: 100%;
+    margin-bottom: 10%;
+}

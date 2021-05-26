@@ -1,0 +1,30 @@
+::placeholder {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+}
+
+div.contenedor {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    height: 80%;
+    align-items: center;
+    align-content: center;
+    padding: 4%;
+}
+
+.imagenColor {
+    width: 100%;
+    margin-bottom: 10%;
+}
+
+.entrada {
+    width: 140%;
+}
+
+.password-icon {
+    float: right;
+    position: relative;
+    margin: -25px -70px 0 0;
+    cursor: pointer;
+}

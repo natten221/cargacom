@@ -1,0 +1,152 @@
+/*
+Primera interfaz
+
+.primeraColumna {
+    height: 15rem;
+}
+
+.imagenColor {
+    width: 100%;
+}
+
+.fondo-gris {
+    background-color: #D5D8DC;
+}
+
+::placeholder {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+}
+
+.password-icon {
+    float: right;
+    position: relative;
+    margin: -25px 10px 0 0;
+    cursor: pointer;
+}
+
+.color-naranja {
+    background-color: #D35400;
+    color: white;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.colorGrisOscuro {
+    background-color: #85929E;
+    color: white;
+}
+
+.margenIzquierdo {
+    margin-left: 20px;
+} */
+
+
+/* Segunda interfaz registro-1 */
+
+
+/* .botonNaranja {
+    margin-left: 10%;
+    border-radius: 5px;
+    background-color: #D35400;
+    width: 80%;
+    height: 25%;
+}
+
+.imagenColor {
+    width: 100%;
+}
+
+.centradoIzq {
+    text-align: left;
+}
+
+.colorBlanco {
+    color: white;
+    text-align: left;
+}
+
+.botonNaranja2 {
+    border-radius: 5px;
+    background-color: #D35400;
+    color: white;
+} */
+
+
+/* tercera interfaz registro-2 */
+
+
+/*
+::placeholder {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+}
+
+.fondoBlanco {
+    background-color: #D5D8DC;
+}
+
+.botonNaranja {
+    border-radius: 5px;
+    background-color: #D35400;
+    color: white;
+}
+
+.textoIzquierda {
+    text-align: left;
+} */
+
+
+/* cuarta interfaz registro-3 */
+
+
+/* .colorNaranja {
+    border-radius: 5px;
+    background-color: #D35400;
+    color: white;
+    .border{
+      border-radius: 5px;
+    }
+} */
+
+
+/* quinta interfaz registro-4 */
+
+::placeholder {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+}
+
+.textoIzquierda {
+    text-align: left;
+}
+
+.colorGris {
+    background-color: #D5D8DC;
+}
+
+.botonNaranja {
+    border-radius: 5px;
+    background-color: #D35400;
+    color: white;
+}
+
+div.contenedor {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    height: 100%;
+    align-items: center;
+    align-content: center;
+    padding: 3%;
+    /*    background-color: aqua; */
+}
+
+.imagenColor {
+    width: 100%;
+    align-self: center;
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
